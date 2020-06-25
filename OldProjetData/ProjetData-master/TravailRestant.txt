@@ -1,0 +1,77 @@
+Restants :
+
+- Montée en charge (Passer en script)
+
+- Nouvel Algo (IDOIA)
+
+(Minimiser la date de retour ?? Comment faire ?)
+
+Matrice adjasens
+
+Livrable Technique => Le code + Les données (stats)
+                        - Fichiers d'instance de problemes
+                        - Optimal
+                        - Code génération graph
+
+                        - Code Algo
+
+                        - Code de l'étude stats
+
+                        (- Code de la montée en charge)
+
+Livrable Rédigé => Notebook présentant l'ensemble du taf
+                    + les résultats (rapport)
+
+                    Gilly -------------
+                    - Définition du probleme Formel
+                    - Etude de la complexité
+                    
+                    Fantou -----------------
+                    - Choix / Fonctionnement de l'Algo
+                        + Params
+                    - Spécificités
+                    - Modélisation selon formalisme de l'Algo
+                    
+                    Gilly ------------------
+                    - Illustration avec différents cas de test
+
+                    Gilly ------------------
+                    - Etude stats
+                        + Descriptives (voir prédictives)
+                        + Exploitation des params du graphe
+                        + Exploitation des params de l'algo
+                        + Analyse / Commentaire des résultats de l'algo
+
+
+Attendus :
+
+- Résolution plusieurs 1000 villes
+
+- Etude statistique
+
+- Une Contrainte => K Camions
+
+
+
+Ce soir :
+
+Fantou
+XX - Script Montée en charge (params => pathCSVMap, N_Trucks)
+XX - Fichier "result.csv" => mapName, OptimumTrouvé, avecKTrucks
+XX - Nettoyage code + commentaires + PEP8
+
+Gilly
+Notebook
+Generation map
+Tests sur datasets connus
+
+
+Demain :
+
+Fantou
+XX Script montée en charge
+Notebook
+Plot Cluster + Graphique en moins moche
+
+Gilly
+Code dans le livrable 
